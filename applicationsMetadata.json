@@ -1,0 +1,31 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "Edge",
+      "ExecutablePath": {
+        "Value": "msedge.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "https://acme-test.uipath.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "Edge",
+      "ExecutablePath": {
+        "Value": "msedge.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "https://uibank.uipath.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    }
+  ]
+}

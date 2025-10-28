@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge UiBank-Welcome",
+  "Type": "App",
+  "Id": "3M4u34YJKUaatxabIWDjSw",
+  "Reference": "CtPU3RAKVUGpiJCHYygPNg/3M4u34YJKUaatxabIWDjSw",
+  "Created": "2025-10-26T01:50:14.928247Z",
+  "Updated": "2025-10-26T01:50:14.928247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

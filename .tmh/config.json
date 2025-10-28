@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/uipathmvp/mvptenant/testmanager_",
+  "defaultProject": {
+    "id": "b55231ec-3d97-0000-6c1c-0b48d98e4a51",
+    "name": "Nova US - TS Demo",
+    "key": "NUTSDE"
+  }
+}

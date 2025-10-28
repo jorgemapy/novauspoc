@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiBank-Welcome",
+  "Type": "Screen",
+  "Id": "x6tHNeEId0OXqmY0p_aefQ",
+  "Reference": "CtPU3RAKVUGpiJCHYygPNg/x6tHNeEId0OXqmY0p_aefQ",
+  "ParentRef": "CtPU3RAKVUGpiJCHYygPNg/yqiI_1u56Ea1TmM3OEcD8A",
+  "Created": "2025-10-26T01:50:16.876862Z",
+  "Updated": "2025-10-26T01:50:16.876862Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
