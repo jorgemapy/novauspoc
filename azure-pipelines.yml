@@ -10,9 +10,6 @@ pool:
   vmImage: windows-latest
 
 steps:
-- task: UiPathInstallPlatform@5
-  inputs:
-    cliVersion: 'WIN_25.4.9337.28376'
 - task: UiPathPack@5
   inputs:
     versionType: 'AutoVersion'
@@ -20,6 +17,11 @@ steps:
     orchestratorConnection: 'UiPath novauspoc'
     outputPath: '$(Build.ArtifactStagingDirectory)\Output'
     traceLevel: 'Information'
+- task: UiPathTest@5
+  inputs:
+    testTarget: 'TestProject'
+    orchestratorConnection: 'UiPath novauspoc'
+    folderName: 'Demos\Testing'
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
